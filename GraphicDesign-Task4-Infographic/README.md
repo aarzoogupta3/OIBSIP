@@ -4,30 +4,59 @@
 
 An infographic designed to communicate information through a structured combination of typography, icons, visual elements, and data-driven sections.
 
-## Task
+## Objective
 
-Create a visually compelling infographic with a clear information hierarchy and logical visual flow.
+The objective was to create a visually compelling infographic with a clear information hierarchy and logical visual flow, making the presented information easy to scan, understand, and retain.
 
-## Deliverable
+## Design Approach
 
-- Final high-resolution infographic PNG
+The infographic uses a consistent colour palette, typography, icons, and visual data elements to create a structured and engaging information experience.
+
+The layout was organized into distinct sections to establish a clear visual flow and guide the viewer through the information in a logical sequence.
+
+## Visual Elements
+
+The design incorporates multiple visual communication elements, including:
+
+- Typography
+- Icons
+- Data-driven sections
+- Image-traced visual element
+- Structured information blocks
+- Visual hierarchy
 
 ## Tools Used
 
 - Adobe Illustrator
 
-##References
-Google
+## Deliverable
 
-##Assets
-Google,Flaticon, Custom illustration
+- Final high-resolution infographic PNG
 
-## Design Approach
+## References
 
-The infographic uses a consistent colour palette, typography, icons, and visual data elements to make the information easy to scan and understand.
+Visual references were gathered through:
 
-##Copyright & Design Ownership
-This project and its visual design are original work created by the author as part of the OIBSIP internship assignment. The repository contains exported/preview versions for evaluation purposes. Editable source files are intentionally not included.
+- Google Images
+
+## Assets
+
+The infographic incorporates:
+
+- Image reference sourced through Google Images and adapted using Adobe Illustrator's Image Trace
+- Icons sourced from Flaticon
+
+The use of third-party visual assets is subject to their respective copyrights and licenses.
+
+## Copyright & Design Ownership
+
+This project was created by the author as part of the OIBSIP Graphic Design Internship assignment.
+
+The repository contains the exported/preview version of the work for evaluation purposes. Editable source files are intentionally not included.
+
+The final layout, composition, typography, information hierarchy, and overall design execution were developed for this assignment.
+
+Third-party visual assets and references used in the project remain subject to their respective copyrights and licenses.
 
 ## Author
 
