@@ -2,11 +2,21 @@
 
 ## Project Overview
 
-A graphic design project focused on creating event posters with a strong visual hierarchy, typography, imagery, and engaging composition.
+A graphic design project focused on creating event posters with a strong emphasis on visual hierarchy, typography, imagery, colour, and engaging composition.
 
-## Task
+## Objective
 
-Design a set of event posters demonstrating creative layout, typography, colour, and visual communication.
+The objective was to design a set of event posters that demonstrate effective visual communication, creative layout, typography, colour balance, and clear presentation of event information.
+
+## Design Approach
+
+The posters were designed using contrasting typography, imagery, colour, and composition to establish a clear visual hierarchy and communicate the event information effectively.
+
+Each poster follows a distinct visual direction while maintaining readability, balance, and an engaging overall composition.
+
+## Tools Used
+
+- Adobe Photoshop
 
 ## Deliverables
 
@@ -14,24 +24,23 @@ Design a set of event posters demonstrating creative layout, typography, colour,
 - Event Poster 02
 - Final exported PDF
 
-## Tools Used
+## References & Visual Assets
 
-- Adobe Photoshop
+Reference and visual assets were sourced from online platforms including:
 
-## Refernces 
+- Pinterest
+- Google
+- iStock, where applicable
 
-Pinterest/Google
+These references/assets were used as part of the design process. The final layouts, typography treatment, composition, and overall design execution were created for this internship assignment.
 
-##Items Downloaded From
+## Copyright & Design Ownership
 
-Pinterest/Google
+This project was created by the author as part of the OIBSIP Graphic Design Internship assignment.
 
-## Design Approach
+The repository contains exported/preview versions of the work for evaluation purposes. Editable source files are intentionally not included.
 
-The posters use contrasting typography, imagery, colour, and composition to establish a strong visual hierarchy and communicate the event information effectively.
-
-##Copyright & Design Ownership
-This project and its visual design are original work created by the author as part of the OIBSIP internship assignment. The repository contains exported/preview versions for evaluation purposes. Editable source files are intentionally not included.
+Third-party visual assets used in the designs remain subject to their respective copyrights and licenses.
 
 ## Author
 
